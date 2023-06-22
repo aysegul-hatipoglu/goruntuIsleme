@@ -1,1 +1,1 @@
-# Python Dili ile Goruntu Isleme Ornek Uygulamalar
+# image processing
